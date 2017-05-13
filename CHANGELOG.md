@@ -1,5 +1,7 @@
 ## Solidus 2.3.0 (master, unreleased)
 
+- Allow refreshing shipping rates for unshipped shipments on completed orders [\#1906](https://github.com/solidusio/solidus/pull/1906) ([mamhoff](https://github.com/mamhoff))
+
 ## Solidus 2.2.1 (2017-05-09)
 
 - Fix migrating CreditCards to WalletPaymentSource [\#1898](https://github.com/solidusio/solidus/pull/1898) ([jhawthorn](https://github.com/jhawthorn))
